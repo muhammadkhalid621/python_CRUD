@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 flask run / python app.py  
 
-## 6. CRUD OPERATIONS
+## CRUD OPERATIONS
 
 
 ### 1. Create a User
